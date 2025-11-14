@@ -85,9 +85,13 @@ OSPF는 규모 확장성·안정성 우수
 📁 포함 파일
 
 프로젝트 폴더/
+
  ├─ README.md        # 이 문서
+ 
  ├─ report.docx      # 기말 보고서 파일
+ 
  ├─ project.pkt      # Packet Tracer 파일
+ 
  └─ images/ (선택)
 
 

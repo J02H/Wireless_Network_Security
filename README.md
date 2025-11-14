@@ -21,20 +21,26 @@ DNS 서버 분산
 
 📡 무선 AP 구성
 🔹 AP1 (WPA2-Personal)
-항목	설정값
-외부 IP	DHCP (192.168.0.12/24)
-내부망	192.168.100.1/24
-SSID	Slave032
-Security	WPA2-Personal
-Encryption	AES
-Passphrase	과제 제출 시 기재
+
+| 항목         | 설정값                    |
+| ---------- | ---------------------- |
+| 외부 IP      | DHCP (192.168.0.12/24) |
+| 내부망        | 192.168.100.1/24       |
+| SSID       | Slave032               |
+| Security   | WPA2-Personal          |
+| Encryption | AES                    |
+| Passphrase | 과제 제출 시 기재             |
+
 🔹 AP2 (WPA2-Enterprise)
-항목	설정값
-외부 IP	192.168.40.1/24
-내부망	192.168.201.1/24
-Security	WPA2-Enterprise
-Authentication	AAA/RADIUS
-Encryption	AES
+| 항목             | 설정값              |
+| -------------- | ---------------- |
+| 외부 IP          | 192.168.40.1/24  |
+| 내부망            | 192.168.201.1/24 |
+| Security       | WPA2-Enterprise  |
+| Authentication | AAA/RADIUS       |
+| Encryption     | AES              |
+
+
 🖥 AAA · RADIUS 서버
 
 본사 서버는 AAA(RADIUS)를 이용해 AP2의 인증을 수행합니다.

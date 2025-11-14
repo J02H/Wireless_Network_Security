@@ -1,5 +1,6 @@
 🌐 본사–지부 통합 무선 네트워크 보안 설계
 <p align="center"> <img src="https://img.shields.io/badge/Wireless-WPA2%20Personal%20%26%20Enterprise-blue?style=flat-square"/> <img src="https://img.shields.io/badge/Routing-OSPF-green?style=flat-square"/> <img src="https://img.shields.io/badge/Simulator-PacketTracer-orange?style=flat-square"/> <img src="https://img.shields.io/badge/Author-Jo%20Hyunho-9cf?style=flat-square"/> </p>
+
 📘 프로젝트 개요
 
 본 문서는 본사–서울 지부–수원 지부로 구성된 기업 네트워크 환경에서
